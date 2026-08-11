@@ -1,5 +1,5 @@
 # TORA-DSS-2026
-This collection serves as an online repository for the TORA framework introduced in the Decision Support Systems paper [Ref], including the framework, metadata, data-collection code, and prompt templates and parameter configurations used with large language models.
+This collection serves as an online repository for the TORA framework introduced in the Decision Support Systems paper [1], including the framework, metadata, data-collection code, and prompt templates and parameter configurations used with large language models.
 
 ## Empirical Data Collection
 
@@ -209,4 +209,4 @@ The following posts were moderated in accordance with the rule topic above:
 <div align="left">
   
 ## Reference: 
-TBD
+[1] Wang, K., Fu, Z., Xin, W., Hanson, K., & Zhou, L. (2026). TORA: Topic-based rule affinity for content moderation in social media communities. Decision Support Systems. https://doi.org/10.1016/j.dss.2026.114750
