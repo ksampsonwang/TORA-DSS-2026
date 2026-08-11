@@ -208,5 +208,3 @@ The following posts were moderated in accordance with the rule topic above:
 
 <div align="left">
   
-## Reference: 
-[1] Wang, K., Fu, Z., Xin, W., Hanson, K., & Zhou, L. (2026). TORA: Topic-based rule affinity for content moderation in social media communities. Decision Support Systems. https://doi.org/10.1016/j.dss.2026.114750
