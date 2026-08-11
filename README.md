@@ -1,5 +1,5 @@
 # TORA-DSS-2026
-This collection serves as an online repository for the TORA framework introduced in the Decision Support Systems paper [1], including the framework, metadata, data-collection code, and prompt templates and parameter configurations used with large language models.
+This collection serves as an online repository for the TORA framework introduced in the *Decision Support Systems* paper [(Wang et al., 2026)](https://doi.org/10.1016/j.dss.2026.114750), including the framework, metadata, data-collection code, and prompt templates and parameter configurations used with large language models.
 
 ## Empirical Data Collection
 
